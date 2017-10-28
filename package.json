@@ -1,0 +1,16 @@
+{
+  "name": "susy_practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC"
+}
